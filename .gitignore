@@ -1,4 +1,4 @@
 #ignore dummy content
-./blog/2019/01/01/Dummy-Blog.html
-./projects/project/2019/01/01/Dummy-Project.html
+/blog/2019/01/01/Dummy-Blog.html
+/projects/project/2019/01/01/Dummy-Project.html
 .DS_Store
