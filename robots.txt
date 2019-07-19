@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sitemap: erdeminanc.com/pages/erdeminanc/sitemap.xml
+=======
+Sitemap: http://localhost:4000/sitemap.xml
+>>>>>>> 603e5b8... jekyll admin plugin installed
